@@ -2,10 +2,10 @@
 
 Soy estudiante de la Licenciatura en Biología en la Universidad Autónoma de Santo Domingo (UASD). Combino mi formación científica con el aprendizaje autodidacta de la programación y la divulgación científica.
 
-### 🌊 Mi Meta Científica
+###  Mi Meta Científica
 Mi objetivo a largo plazo es especializarme en la **conservación molecular de arrecifes de coral y bioinformática marina** en el Caribe, aplicando herramientas biotecnológicas para estudiar la resiliencia climática de los ecosistemas marinos y ayudar en su conservación.
 
-### 💻 Mis Prácticas en Python (Formato de Clases)
+###  Mis Prácticas en Python (Formato de Clases)
 En este espacio documento mi evolución con la programación utilizando el entorno Thonny. Encontrarás mis códigos organizados en formato de clases de aprendizaje (`clase_1`, `clase_2`, etc.), donde incluyo notas de estudio, comentarios internos y ejercicios aplicados a:
 Análisis de bases nitrogenadas (ADN/ARN).
 Cálculos de porcentajes de GC.
