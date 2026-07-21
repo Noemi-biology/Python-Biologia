@@ -16,4 +16,4 @@ En este espacio documento mi evolución con la programación utilizando el entor
 - **Habilidades Aliadas:** Ilustración científica y artes plásticas, voluntariado en salud comunitaria y dominio de inglés técnico (Nivel B1-B2).
 
 ---
-*“El camino a la meta no es una linea recta”.* 
+*“El camino a la meta no es una línea recta”.* 
